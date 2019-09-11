@@ -1,0 +1,14 @@
+C:\Users\jm_bchr\source\repos\ConsoleApp3\CODEFIRST\bin\Debug\CODEFIRST.exe.config
+C:\Users\jm_bchr\source\repos\ConsoleApp3\CODEFIRST\bin\Debug\CODEFIRST.exe
+C:\Users\jm_bchr\source\repos\ConsoleApp3\CODEFIRST\bin\Debug\CODEFIRST.pdb
+C:\Users\jm_bchr\source\repos\ConsoleApp3\CODEFIRST\bin\Debug\EntityFramework.dll
+C:\Users\jm_bchr\source\repos\ConsoleApp3\CODEFIRST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jm_bchr\source\repos\ConsoleApp3\CODEFIRST\bin\Debug\EntityFramework.xml
+C:\Users\jm_bchr\source\repos\ConsoleApp3\CODEFIRST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jm_bchr\source\repos\ConsoleApp3\CODEFIRST\obj\Debug\CODEFIRST.csproj.CoreCompileInputs.cache
+C:\Users\jm_bchr\source\repos\ConsoleApp3\CODEFIRST\obj\Debug\CODEFIRST.csproj.CopyComplete
+C:\Users\jm_bchr\source\repos\ConsoleApp3\CODEFIRST\obj\Debug\CODEFIRST.exe
+C:\Users\jm_bchr\source\repos\ConsoleApp3\CODEFIRST\obj\Debug\CODEFIRST.pdb
+C:\Users\jm_bchr\source\repos\ConsoleApp3\CODEFIRST\obj\Debug\CODEFIRST.csprojAssemblyReference.cache
+C:\Users\jm_bchr\source\repos\ConsoleApp3\CODEFIRST\obj\Debug\CODEFIRST.Migrations.CreateDemoData.resources
+C:\Users\jm_bchr\source\repos\ConsoleApp3\CODEFIRST\obj\Debug\CODEFIRST.csproj.GenerateResource.cache

@@ -1,0 +1,12 @@
+C:\Users\jm_bchr\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\jm_bchr\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\jm_bchr\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\jm_bchr\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\EntityFramework.dll
+C:\Users\jm_bchr\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jm_bchr\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\EntityFramework.xml
+C:\Users\jm_bchr\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jm_bchr\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\jm_bchr\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\jm_bchr\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\jm_bchr\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\jm_bchr\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
